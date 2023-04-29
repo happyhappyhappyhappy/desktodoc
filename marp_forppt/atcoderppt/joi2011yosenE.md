@@ -1,5 +1,6 @@
 ---
 marp: true
+theme: "gaia"
 ---
 # 情報オリンピック2012予選E「cheese」
 

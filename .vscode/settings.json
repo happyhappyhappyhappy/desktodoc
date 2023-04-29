@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#b2baba99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#B2BABA"
+    "peacock.color": "#B2BABA",
+    "markdown.marp.themes": [
+        "C:\\Users\\kaede\\doc\\marp_forppt\\theme\\"
+    ]
 }

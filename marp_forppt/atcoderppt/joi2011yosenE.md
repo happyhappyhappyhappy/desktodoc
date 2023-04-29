@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: "gaia"
+theme: uncover
+class: invert
 ---
 # 情報オリンピック2012予選E「cheese」
 
